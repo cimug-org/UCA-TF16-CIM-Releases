@@ -1,1 +1,3 @@
-# UCA-TF16-CIM-Releases
+<h1 id="uca-tf16-cim-releases"><img src="docs/media/logo/tf16-reports-logo.svg#gh-light-mode-only" alt="UCA TF16 CIM Releases" height="84"><img src="docs/media/logo/tf16-reports-logo-dark.svg#gh-dark-mode-only" alt="UCA TF16 CIM Releases" height="84"></h1>
+
+This repository hosts the UCA TF16 website (https://utf16-releases.ucaiug.io) for published and interim releases of the CIM Market package: the UML model of the current International Standard, IEC 62325-301 Ed 2.0 (CIM03v17b), and the interim releases of work in progress toward the next edition of IEC 62325-301. Each release is published with its release notes and a [cim-compare](https://cim-compare.ucaiug.io) report of what changed. These reports and associated artifacts are made available by UCAIug and licensed under the Apache 2.0 open source license.
